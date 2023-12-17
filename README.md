@@ -13,7 +13,7 @@ The primary objectives of this project are:
 - Determination of top-selling products and their performance metrics.
 - Calculation and assessment of revenue-related metrics (e.g., total sales, profit margins).
 - Creation of effective visualizations to present findings.
-
+<iframe title="Sale Data Analyst" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=3ee4d1fa-23b4-4b0e-b820-d587e6a85e5c&autoAuth=true&ctid=ff666498-a18e-4d59-ac83-bc609ccc79b4" frameborder="0" allowFullScreen="true"></iframe>
 ## Tools Used
 
 - **Power BI**: Leveraged for data manipulation, analysis, and visualization.
